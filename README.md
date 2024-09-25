@@ -4,5 +4,5 @@ SQLite
 
 
 This project also includes usage of:
-Migration
+Migration,
 MVC Build
