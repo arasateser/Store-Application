@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,10 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Document</title>
 </head>
+
 <body> 
     <header>
-        Store App Header
-        @RenderSection("Header", required: false)
+        @RenderSection("Header", false)
     </header>
 
     <main>
@@ -18,10 +17,10 @@
     </main>
 
     <footer>
-        @RenderSection("Footer", required: false)
+        @RenderSection("Footer", false)
         Footer
     </footer>
-    @await RenderSectionAsync("Scripts", required:false)
+    @await RenderSectionAsync("Scripts", required: false)
 
 </body>
 </html>
