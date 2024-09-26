@@ -1,16 +1,12 @@
-﻿@model List<StoreApp.Models.Product>
+﻿@model List<Product>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Document</title>
-</head>
+    @section Footer{
+        <div>
+            footer for only index
+        </div>
+    }
 
-<body>
-    @foreach(StoreApp.Models.Product prd in Model)
+    @foreach(Product prd in Model)
     {
         <div>
             <h3>@prd.ProductName</h3>
@@ -20,5 +16,3 @@
             </p>
         </div>
     }
-</body>
-</html>

@@ -62,3 +62,4 @@ C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\runtimes\win-ar
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\obj\Debug\net7.0\StoreApp.csproj.Up2Date
+C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\obj\Debug\net7.0\StoreApp.sourcelink.json
