@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\html\\Error.html"
     },
     {
+      "Id": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\wwwroot\\images\\vada.jpg",
+      "PackagePath": "staticwebassets\\images\\vada.jpg"
+    },
+    {
       "Id": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

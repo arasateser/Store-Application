@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ma0+TkIwWTE2xg9jcrVnhwRZXS+0RndzzFxpzy3rP5Q=",
+  "Hash": "GpLmV/9w4G3hPyhU9kMGjqDHv/9Ni6lhy+rxkiJmIXA=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\html\\Error.html"
+    },
+    {
+      "Identity": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\wwwroot\\images\\vada.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/vada.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\vada.jpg"
     },
     {
       "Identity": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",
