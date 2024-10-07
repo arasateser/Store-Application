@@ -1,8 +1,8 @@
 ﻿using Entities.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using StoreApp.Models;
 using Entities.Models;
+using Repositories;
 
 
 namespace StoreApp.Controllers

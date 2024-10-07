@@ -67,3 +67,5 @@ C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\StoreApp.static
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\libman.json
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\Entities.dll
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\Entities.pdb
+C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\Repositories.dll
+C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\Repositories.pdb
