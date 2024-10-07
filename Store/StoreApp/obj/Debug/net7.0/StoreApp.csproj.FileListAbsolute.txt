@@ -65,3 +65,5 @@ C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\obj\Debug\net7.0\StoreApp.csproj
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\obj\Debug\net7.0\StoreApp.sourcelink.json
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\StoreApp.staticwebassets.runtime.json
 C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\libman.json
+C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\Entities.dll
+C:\Users\Aras\Desktop\dotnet\MVC\Store\StoreApp\bin\Debug\net7.0\Entities.pdb
