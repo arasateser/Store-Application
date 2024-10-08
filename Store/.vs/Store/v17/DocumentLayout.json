@@ -1,28 +1,15 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FF26F35F-78C5-446E-BE0A-3C0E6CB80D07}|Repositories\\Repositories.csproj|c:\\users\\aras\\desktop\\dotnet\\mvc\\store\\repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF26F35F-78C5-446E-BE0A-3C0E6CB80D07}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31162962-9FB5-481D-8138-8D31DEBF3D76}|StoreApp\\StoreApp.csproj|c:\\users\\aras\\desktop\\dotnet\\mvc\\store\\storeapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31162962-9FB5-481D-8138-8D31DEBF3D76}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF26F35F-78C5-446E-BE0A-3C0E6CB80D07}|Repositories\\Repositories.csproj|c:\\users\\aras\\desktop\\dotnet\\mvc\\store\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF26F35F-78C5-446E-BE0A-3C0E6CB80D07}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 205,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,45 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "StoreApp\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "StoreApp\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:47:36.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Repositories\\Contracts\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Contracts\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Repositories\\Contracts\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\Contracts\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:47:04.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:46:57.676Z",
-              "EditorCaption": ""
             }
           ]
         },

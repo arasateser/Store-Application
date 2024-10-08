@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\StoreApp.csproj": {}
+    "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Services\\Services.csproj": {}
   },
   "projects": {
     "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Entities\\Entities.csproj": {
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\StoreApp.csproj": {
+    "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\StoreApp.csproj",
-        "projectName": "StoreApp",
-        "projectPath": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\StoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Aras\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\obj\\",
+        "outputPath": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aras\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -189,18 +189,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -213,9 +201,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
