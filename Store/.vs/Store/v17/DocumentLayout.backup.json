@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{31162962-9FB5-481D-8138-8D31DEBF3D76}|StoreApp\\StoreApp.csproj|c:\\users\\aras\\desktop\\dotnet\\mvc\\store\\storeapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31162962-9FB5-481D-8138-8D31DEBF3D76}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 205,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeDocumentMoniker": "StoreApp\\Views\\Shared\\_Navbar.cshtml",
-              "ToolTip": "C:\\Users\\Aras\\Desktop\\dotnet\\MVC\\Store\\StoreApp\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeToolTip": "StoreApp\\Views\\Shared\\_Navbar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T15:56:26.794Z",
-              "EditorCaption": ""
             }
           ]
         },
