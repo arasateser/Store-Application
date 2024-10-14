@@ -18,9 +18,9 @@ namespace Services
             _manager = manager;
         }
 
-        public IQueryable<Product> GetAllCategories(bool trackChanges)
+        public IEnumerable<Category> GetAllCategories(bool trackChanges)
         {
-            return _manager.Category.
+            return _manager.Category.FindAll(trackChanges);
         }
     }
 }

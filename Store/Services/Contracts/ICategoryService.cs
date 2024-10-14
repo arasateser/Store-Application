@@ -9,7 +9,7 @@ namespace Services.Contracts
 {
     public interface ICategoryService
     {
-        IQueryable<Product> GetAllCategories(bool trackChanges);
+        IEnumerable<Category> GetAllCategories(bool trackChanges);
         //Category? GetOneCategory(int id, bool trackChanges);
     }
 }
