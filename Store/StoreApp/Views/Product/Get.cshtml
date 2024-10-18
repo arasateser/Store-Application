@@ -1,5 +1,11 @@
 ﻿@model Product
 
+@section Header {
+    <div>
+        Header for only Get
+    </div>
+}
+
 <h3>@Model.ProductName</h3>
 <p>@Model.Price</p>
 
@@ -13,9 +19,3 @@
         Products
     </a>
 </div>
-
-@section Header {
-    <div>
-        Header for only Get
-    </div>
-}

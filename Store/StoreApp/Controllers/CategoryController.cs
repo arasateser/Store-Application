@@ -6,7 +6,7 @@ namespace StoreApp.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly IRepositoryManager _manager;
+        private IRepositoryManager _manager;
 
         public CategoryController(IRepositoryManager manager)
         {
