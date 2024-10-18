@@ -1,7 +1,5 @@
-﻿@page
-@model StoreApp.Areas.Admin.Views.Dashboard.IndexModel
+﻿@model StoreApp.Areas.Admin.Views.Shared._LayoutModel
 @{
-    Layout = "_Layout";
 }
 
 <!DOCTYPE html>
@@ -13,6 +11,7 @@
     <title> </title>
 </head>
 <body>
-    <h3>Dashboard Index</h3>
+    <div>Admin Panel</div>
+    @RenderBody()
 </body>
 </html>
