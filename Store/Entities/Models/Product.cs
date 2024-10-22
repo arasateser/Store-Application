@@ -6,9 +6,9 @@ public class Product
 {
     public int ProductId { get; set; }
 
-    [Required(ErrorMessage = "ProductName required")]
+    [Required(ErrorMessage = "ProdcutName required")]
     public string? ProductName { get; set; }
 
-    [Required(ErrorMessage = "Price required")]
+    [Required(ErrorMessage = "ProdcutName required")]
     public decimal Price { get; set; }
 }
