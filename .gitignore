@@ -11,3 +11,11 @@ Store/.vs/Store/FileContentIndex/b59f487a-24b6-41c5-8cb0-0f0570255789.vsidx
 Store/.vs/Store/v17/.suo
 Store/StoreApp/obj/Debug/net7.0/StoreApp.sourcelink.json
 *.dll
+*.pdb
+*.cache
+*.db-shm
+*.db-wal
+*.json
+*.pdb
+*.cache
+*.exe
