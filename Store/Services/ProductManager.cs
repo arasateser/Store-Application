@@ -31,6 +31,7 @@ namespace Services
             if (product != null)
             {
                 _manager.Product.DeleteOneProduct(product);
+                _manager.Save();
             }
         }
 
