@@ -21,3 +21,6 @@ Store/StoreApp/obj/Debug/net7.0/StoreApp.sourcelink.json
 *.exe
 =======
 >>>>>>> parent of 4505b33 (Model Validation added to create function)
+*.v2
+*.pdb
+*.cache
